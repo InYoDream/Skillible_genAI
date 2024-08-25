@@ -1,1 +1,1 @@
-Skillible GenAI course
+Skillible GenAI course assignment
