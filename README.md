@@ -1,0 +1,1 @@
+Skillible GenAI course
